@@ -1,7 +1,7 @@
 # Expense-Tracker-ReactEthereum
 This is a Simple Expense Tracker App with Ethereum Blockchain and React on Client Side 
 
-Follow the steps below to download, install, and run this project.
+Simply download, install, and run this project.
 
 
 ## Dependencies
